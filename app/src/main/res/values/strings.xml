@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">On1y</string>
+    <string name="title_activity_main">On1y</string>
+
+    <string name="title_section1">Main Link</string>
+    <string name="title_section2">Science</string>
+    <string name="title_section3">Business</string>
+    <string name="title_section4">Tech</string>
+    <string name="title_section5">Book</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Share!</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_guest">I\'ll Create An Account Later</string>
+    <string name="viewing_text">Today\'s Main Link</string>
+    <string name="tag_line">On1y: Minimalism, Maxmized</string>
+    <string name="main_title">Video: Why Removing Choice Can Set Your Mind Free</string>
+    <string name="main_author">By FightMediocrity</string>
+    <string name="main_summary">FightMediocrity examines The Paradox of Choice, the notion that choice overload has made us paralyzed and unhappy, contrary to western ideals of freedom of choice.</string>
+
+    <string name="science_viewing">Today\'s Science Link</string>
+    <string name="science_title">Choice overload: A meta-analysis</string>
+    <string name="science_author">Chernev et al. 2015, Journal of Consumer Psychology</string>
+    <string name="science_summary">Abstract excerpt: Despite the voluminous evidence…finding that providing individuals with more options can be detrimental to choice…the findings of the individual studies fail to come together into a cohesive understanding[.] In a meta-analysis of 99 observations (N = 7202) reported by prior research, we identify four key factors…that moderate the impact of assortment size on choice overload.</string>
+
+    <string name="business_title">Market overload—too many chocies</string>
+    <string name="business_viewing_text">Today\'s Business Link</string>
+    <string name="business_author">By Consumer Reports</string>
+    <string name="business_summary">Consumer Reports investigates the choice overload hypothesis, finding that, indeed, consumers would be better off if there weren\'t so many unnecessary and over-complicating choices!</string>
+
+    <string name="tech_viewing">Today\'s Technology Link</string>
+    <string name="tech_title">New App, On1y, Elimates Content Choice Overload</string>
+    <string name="tech_author">By Zubin Koticha</string>
+    <string name="tech_summary">A new Android application, On1y, simplifies the internet content out there so you don\'t have to. Ever decide to check the news or check out books online and get lost in an hours\' long search for content which has you feeling exhausted and unsatiated by the end? On1y might be for you. The team curates content daily, and provides only ONE link. That way, you know you\'re getting good content, every single time. On1y for 5 minutes every day, be less stressed, more focused, and more connected to only the best internet content.</string>
+
+    <string name="book_viewing">This Week\'s Book</string>
+    <string name="book_title">The Paradox Of Choice</string>
+    <string name="book_author">By Barry Schwartz</string>
+    <string name="book_summary">From Google Play Books: In The Paradox of Choice, Barry Schwartz explains at what point choice—the hallmark of individual freedom and self-determination that we so cherish—becomes detrimental to our psychological and emotional well-being.</string>
+</resources>
